@@ -5,12 +5,12 @@ This project demonstrates authentication, user management, and secure API design
 
 ##  Features
 
-✔ Spring Security Login Authentication  
-✔ Custom Login Success Message  
-✔ REST API Architecture  
-✔ PostgreSQL Database Integration using Aiven Cloud  
-✔ Clean Controller → Service → Repository Structure  
-✔ Maven Build System  
+- Spring Security Login Authentication  
+- Custom Login Success Message  
+- REST API Architecture  
+- PostgreSQL Database Integration using Aiven Cloud  
+- Clean Controller → Service → Repository Structure  
+- Maven Build System  
 
 ##  Tech Stack
 
@@ -77,7 +77,6 @@ http://localhost:8080
 - Unit Testing
 - Swagger API Documentation
 
----
 
 ##  Author
 
