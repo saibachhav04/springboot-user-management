@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://saipost-saibachhav04-619f.e.aivencloud.com:27431/defaultdb?sslmode=require
+    username: avnadmin
+    password: ${DB_PASSWORD}
+    jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
